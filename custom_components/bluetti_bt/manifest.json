@@ -1,6 +1,6 @@
 {
   "domain": "bluetti_bt",
-  "name": "Bluetti BT",
+  "name": "Bluetti BT - CH",
   "bluetooth": [
     { "local_name": "AC200M*" },
     { "local_name": "AC300*" },
