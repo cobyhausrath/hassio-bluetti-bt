@@ -17,6 +17,7 @@ After the installation, you can use this button to install the integration:
 (based on [supported devices of bluetti_mqtt](https://github.com/warhammerkid/bluetti_mqtt/tree/main/bluetti_mqtt/core/devices))
 
 - AC60
+- AC70
 - AC200M
 - AC300 (tested)
 - AC500
