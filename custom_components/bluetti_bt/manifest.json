@@ -18,6 +18,6 @@
   "integration_type": "device",
   "iot_class": "local_polling",
   "issue_tracker": "https://github.com/Patrick762/hassio-bluetti-bt/issues",
-  "requirements": ["git+https://github.com/bxm6306/bluetti_mqtt.git@patch-2"],
+  "requirements": ["git+https://github.com/bxm6306/bluetti_mqtt.git@patch-2#egg=bluetti_mqtt==0.15.0"],
   "version": "0.0.12"
 }
